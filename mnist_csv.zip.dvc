@@ -1,0 +1,5 @@
+outs:
+- md5: f6ea32bbc7a34340f15fdd88351b487b
+  size: 15495756
+  hash: md5
+  path: mnist_csv.zip
