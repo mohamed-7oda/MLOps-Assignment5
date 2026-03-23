@@ -1,8 +1,9 @@
-/mnist_csv.zip
 mlruns/
 mnist_data/
 dvc_storage/
 venv/
 Failed Screenshots/
 Success Screenshots/
+# ignore all zips EXCEPT dataset
 *.zip
+!mnist_csv.zip
