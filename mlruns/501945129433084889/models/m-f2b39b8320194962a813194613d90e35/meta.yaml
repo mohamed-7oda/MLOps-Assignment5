@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/mohamed mahmoud emam/OneDrive/Desktop/MLOps/Assignments/Assignment5/mlruns/501945129433084889/models/m-f2b39b8320194962a813194613d90e35/artifacts
+creation_timestamp: 1774274102213
+experiment_id: '501945129433084889'
+last_updated_timestamp: 1774274113332
+model_id: m-f2b39b8320194962a813194613d90e35
+model_type: null
+name: model
+source_run_id: 2f58ce2f0e0e425ead6f6180826b4337
+status: 2
+status_message: null
