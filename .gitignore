@@ -1,1 +1,8 @@
 /mnist_csv.zip
+mlruns/
+mnist_data/
+dvc_storage/
+venv/
+Failed Screenshots/
+Success Screenshots/
+*.zip
